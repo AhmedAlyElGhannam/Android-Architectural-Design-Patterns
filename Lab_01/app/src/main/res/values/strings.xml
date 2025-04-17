@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_01</string>
+    <string name="favouritesBtn">Favourite</string>
+    <string name="delBtn">Delete</string>
+    <string name="mainUIBtn">List of Products</string>
+    <string name="listOfFavBtn">Favourite Products</string>
+</resources>
