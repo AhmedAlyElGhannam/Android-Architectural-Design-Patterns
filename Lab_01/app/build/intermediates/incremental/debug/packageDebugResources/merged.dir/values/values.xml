@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Lab_01</string>
+    <string name="delBtn">Delete</string>
+    <string name="favouritesBtn">Favourite</string>
+    <string name="listOfFavBtn">Favourite Products</string>
+    <string name="mainUIBtn">List of Products</string>
+    <style name="Base.Theme.Lab_01" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab_01" parent="Base.Theme.Lab_01"/>
+</resources>

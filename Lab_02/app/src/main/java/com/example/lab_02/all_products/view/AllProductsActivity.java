@@ -49,7 +49,7 @@ public class AllProductsActivity extends AppCompatActivity implements NetworkCal
     @Override
     public void onSuccessResult(List<Product> list) {
         Log.i(MAIN_ACTIVITY, "onSuccessResult: ");
-        rProductAdapter = new AllProductsAdapter(AllProductsActivity.this, list, this, this);
+        rProductAdapter = new AllProductsAdapter(AllProductsActivity.this, list, this);
         recyclerView.setAdapter(rProductAdapter);
     }
 

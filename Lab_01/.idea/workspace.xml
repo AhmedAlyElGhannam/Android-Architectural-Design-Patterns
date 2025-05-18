@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c821c3b-bbdc-42fb-9eb8-5d2c65c5cae0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/lab_01/allproducts/view/AllProductsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/lab_01/favproducts/view/FavProductsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/lab_01/model/pojo/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/androidTest/java/com/example/lab_02/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/all_products/presenter/AllProductsPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/all_products/view/AllProductsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/all_products/view/AllProductsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/all_products/view/AllProductsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/fav_products/presenter/FavProductsPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/fav_products/presenter/OnFavouriteClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/fav_products/view/FavProductsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/fav_products/view/FavProductsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/fav_products/view/FavProductsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/main_menu/presenter/MainMenuPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/main_menu/view/MainMenuActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/main_menu/view/MainMenuAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/main_menu/view/MainMenuView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/db/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/db/ProductDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/network/NetworkCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/network/ProductClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/network/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/pojo/ProductResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/java/com/example/lab_02/model/pojo/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/layout/all_product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/layout/all_products.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/layout/fav_product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/layout/fav_products.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/layout/main_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/app/src/test/java/com/example/lab_02/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_02/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_01/app/src/main/java/com/example/lab_01/allproducts/view/AllProductsView.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_01/app/src/main/java/com/example/lab_01/favproducts/view/FavProductsView.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_01/app/src/main/java/com/example/lab_01/model/pojo/Repository.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/androidTest/java/com/example/lab_02/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/all_products/presenter/AllProductsPresenter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/all_products/view/AllProductsActivity.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/all_products/view/AllProductsAdapter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/all_products/view/AllProductsView.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/fav_products/presenter/FavProductsPresenter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/fav_products/presenter/OnFavouriteClickListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/fav_products/view/FavProductsActivity.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/fav_products/view/FavProductsAdapter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/fav_products/view/FavProductsView.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/main_menu/presenter/MainMenuPresenter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/main_menu/view/MainMenuActivity.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/main_menu/view/MainMenuAdapter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/main_menu/view/MainMenuView.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/db/ProductDAO.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/db/ProductDataBase.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/network/NetworkCallback.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/network/ProductClient.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/network/ProductService.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/pojo/Product.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/pojo/ProductResponse.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/java/com/example/lab_02/model/pojo/Repository.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/layout/all_product.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/layout/all_products.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/layout/fav_product.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/layout/fav_products.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/layout/main_menu.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/app/src/test/java/com/example/lab_02/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/build.gradle.kts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/gradle.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/gradlew" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/gradlew.bat" afterDir="false" />
+      <change afterPath="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_02/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$USER_HOME$/Storage/Playground/Github_Repositories/ITI_EmbeddedAndroid/Android-Architectural-Design-Patterns/Lab_01/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lab_01" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lab_01" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lab_01" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lab_01" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2vrDVG4MdLPcYJIdKFq95eAvNBF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c821c3b-bbdc-42fb-9eb8-5d2c65c5cae0" name="Changes" comment="" />
+      <created>1744894321388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744894321388</updated>
+    </task>
+    <servers />
+  </component>
+</project>

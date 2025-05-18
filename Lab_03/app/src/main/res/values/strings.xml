@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="Tittle">Tittle</string>
+    <string name="Price">Price</string>
+    <string name="Description">Description</string>
+    <string name="Ratting">Ratting</string>
+    <string name="Previous">Previous</string>
+    <string name="Next">Next</string>
+    <string name="AddToFav">Add To Fav</string>
+    <string name="Del">delete from Fav</string>
+    <string name="main">To main</string>
+    <string name="fav">to Fav</string>
+    <string name="Exit" />
+    <string name="exit">Exit</string>
+    <string name="mainui">Go To Main UI</string>
+    <string name="favui">Go To Favorite Page</string>
+</resources>
